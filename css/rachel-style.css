@@ -1,0 +1,31 @@
+body {
+  width: 90%;
+  height: auto;
+  margin: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+section {
+  width: 100%;
+  min-width: 600px;
+  height: auto;
+}
+
+.picture {
+  float: left;
+  width: 25%;
+
+}
+
+.advice {
+    float: right;
+    clear: none;
+    width: 65%;
+
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  text-align: center;
+}
